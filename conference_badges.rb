@@ -12,7 +12,7 @@
   
   def batch_badge_creator(arr)
   badge_arr = []
-  arr.each do{|i|  badge_arr << badge_maker(i)}
+  arr.each do{|i| badge_arr << badge_maker(i)}
   end
   badge_arr
   end
