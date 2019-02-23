@@ -10,6 +10,8 @@
   badge_arr
   end
   
+  #playing with { } .. didnt work
+  
   # def batch_badge_creator(arr)
   # badge_arr = []
   # arr.each do{|i| badge_arr << badge_maker(i)}
